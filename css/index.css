@@ -4255,7 +4255,7 @@ _:future,
   overflow-wrap: break-word;
 }
 #article-container a {
-  color: 1677B 3;
+  color: #15559a;
 }
 #article-container a:hover {
   text-decoration: underline;
@@ -4929,7 +4929,7 @@ _:future,
   z-index: 22;
 }
 #waline-wrap textarea {
-  background: url("https://cdn.jsdelivr.net/gh/cxplay/core/imgbed/cxplay_r.png") 100% 100% no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/cxplay/jsd/public/img/cxplay_r.png") 100% 100% no-repeat;
 }
 #waline-wrap textarea:focus {
   background-image: none;
