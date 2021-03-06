@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://cxplay.org/works/hexo_butterfly_img_template.html</loc>
+    
+    <lastmod>2021-03-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://cxplay.org/works/4167091717.html</loc>
     
     <lastmod>2021-03-06</lastmod>
@@ -144,14 +151,28 @@
   </url>
   
   <url>
-    <loc>http://cxplay.org/tags/%E6%97%A5%E5%BF%97/</loc>
+    <loc>http://cxplay.org/tags/Butterfly/</loc>
     <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://cxplay.org/tags/%E6%8A%80%E5%B7%A7/</loc>
+    <loc>http://cxplay.org/tags/%E5%9B%BE%E7%89%87%E5%B0%BA%E5%AF%B8/</loc>
+    <lastmod>2021-03-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://cxplay.org/tags/%E6%A8%A1%E6%9D%BF/</loc>
+    <lastmod>2021-03-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://cxplay.org/tags/FolderSync/</loc>
     <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -172,14 +193,21 @@
   </url>
   
   <url>
-    <loc>http://cxplay.org/tags/FolderSync/</loc>
+    <loc>http://cxplay.org/tags/%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5/</loc>
     <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://cxplay.org/tags/%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5/</loc>
+    <loc>http://cxplay.org/tags/%E6%97%A5%E5%BF%97/</loc>
+    <lastmod>2021-03-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://cxplay.org/tags/%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -216,14 +244,14 @@
   </url>
   
   <url>
-    <loc>http://cxplay.org/categories/%E6%97%B6%E9%97%B4%E8%BD%B4/</loc>
+    <loc>http://cxplay.org/categories/%E5%B7%A5%E5%85%B7%E7%AE%B1/</loc>
     <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://cxplay.org/categories/%E5%B7%A5%E5%85%B7%E7%AE%B1/</loc>
+    <loc>http://cxplay.org/categories/%E6%97%B6%E9%97%B4%E8%BD%B4/</loc>
     <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

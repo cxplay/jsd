@@ -15,8 +15,35 @@
     <atom:link href="http://cxplay.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Share With You.</description>
-    <pubDate>Sun, 28 Feb 2021 19:38:41 GMT</pubDate>
+    <pubDate>Sat, 06 Mar 2021 15:01:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hexo - Butterfly 主题固定图片尺寸模板</title>
+      <link>http://cxplay.org/works/hexo_butterfly_img_template.html</link>
+      <guid>http://cxplay.org/works/hexo_butterfly_img_template.html</guid>
+      <pubDate>Thu, 04 Mar 2021 15:32:23 GMT</pubDate>
+      
+      <description>有关于 Hexo 主题 Butterfly 文章封面(cover)和顶部图片(top_img)的一般通用裁剪尺寸和设计模板.</description>
+      
+      
+      
+      
+      <category domain="http://cxplay.org/categories/%E6%8E%88%E8%A8%80%E5%86%8C/">授言册</category>
+      
+      
+      <category domain="http://cxplay.org/tags/Hexo/">Hexo</category>
+      
+      <category domain="http://cxplay.org/tags/Butterfly/">Butterfly</category>
+      
+      <category domain="http://cxplay.org/tags/%E5%9B%BE%E7%89%87%E5%B0%BA%E5%AF%B8/">图片尺寸</category>
+      
+      <category domain="http://cxplay.org/tags/%E6%A8%A1%E6%9D%BF/">模板</category>
+      
+      
+      <comments>http://cxplay.org/works/hexo_butterfly_img_template.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>FolderSync V3.0 使用手册</title>
@@ -36,11 +63,11 @@
       <category domain="http://cxplay.org/categories/%E5%B7%A5%E5%85%B7%E7%AE%B1/Android/">Android</category>
       
       
+      <category domain="http://cxplay.org/tags/FolderSync/">FolderSync</category>
+      
       <category domain="http://cxplay.org/tags/Android/">Android</category>
       
       <category domain="http://cxplay.org/tags/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/">使用手册</category>
-      
-      <category domain="http://cxplay.org/tags/FolderSync/">FolderSync</category>
       
       <category domain="http://cxplay.org/tags/%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5/">文件同步</category>
       
