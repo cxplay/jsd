@@ -15,7 +15,7 @@
     <atom:link href="http://cxplay.org/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Share With You.</description>
-    <pubDate>Sat, 06 Mar 2021 15:01:44 GMT</pubDate>
+    <pubDate>Sat, 06 Mar 2021 21:09:55 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -39,6 +39,8 @@
       <category domain="http://cxplay.org/tags/%E5%9B%BE%E7%89%87%E5%B0%BA%E5%AF%B8/">图片尺寸</category>
       
       <category domain="http://cxplay.org/tags/%E6%A8%A1%E6%9D%BF/">模板</category>
+      
+      <category domain="http://cxplay.org/tags/%E8%AE%BE%E8%AE%A1%E5%8F%82%E8%80%83/">设计参考</category>
       
       
       <comments>http://cxplay.org/works/hexo_butterfly_img_template.html#disqus_thread</comments>
