@@ -4,37 +4,6 @@
   
     
     <entry>
-      <title>Hexo - Butterfly 主题固定图片尺寸模板</title>
-      <link href="works/hexo_butterfly_cover_and_top_img.html"/>
-      <url>works/hexo_butterfly_cover_and_top_img.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 授言册 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Hexo </tag>
-            
-            <tag> Butterfly </tag>
-            
-            <tag> 图片尺寸 </tag>
-            
-            <tag> 模板 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>FolderSync V3.0 使用手册</title>
       <link href="works/foldersync_v3.html"/>
       <url>works/foldersync_v3.html</url>
