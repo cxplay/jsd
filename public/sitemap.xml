@@ -305,6 +305,20 @@
   </url>
   
   <url>
+    <loc>http://www.cxplay.org/tags/%E8%B5%9B%E5%85%8B%E6%96%AF%E4%B8%96%E7%95%8C/</loc>
+    <lastmod>2021-07-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.cxplay.org/tags/%E5%AF%86%E8%AF%AD%E7%93%B6/</loc>
+    <lastmod>2021-07-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.cxplay.org/tags/%E8%81%94%E6%83%B3%E5%B0%8F%E6%96%B0/</loc>
     <lastmod>2021-07-09</lastmod>
     <changefreq>daily</changefreq>
@@ -327,20 +341,6 @@
   
   <url>
     <loc>http://www.cxplay.org/tags/%E8%AF%84%E6%B5%8B/</loc>
-    <lastmod>2021-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.cxplay.org/tags/%E8%B5%9B%E5%85%8B%E6%96%AF%E4%B8%96%E7%95%8C/</loc>
-    <lastmod>2021-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.cxplay.org/tags/%E5%AF%86%E8%AF%AD%E7%93%B6/</loc>
     <lastmod>2021-07-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -461,6 +461,13 @@
   </url>
   
   <url>
+    <loc>http://www.cxplay.org/categories/%E5%AF%86%E8%AF%AD%E7%93%B6/</loc>
+    <lastmod>2021-07-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.cxplay.org/categories/%E5%8D%9A%E7%89%A9%E5%BF%97/</loc>
     <lastmod>2021-07-09</lastmod>
     <changefreq>daily</changefreq>
@@ -468,7 +475,7 @@
   </url>
   
   <url>
-    <loc>http://www.cxplay.org/categories/%E5%AF%86%E8%AF%AD%E7%93%B6/</loc>
+    <loc>http://www.cxplay.org/categories/%E7%A8%BF%E4%BB%B6%E5%A4%B9/</loc>
     <lastmod>2021-07-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -490,13 +497,6 @@
   
   <url>
     <loc>http://www.cxplay.org/categories/Bug%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2021-07-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.cxplay.org/categories/%E7%A8%BF%E4%BB%B6%E5%A4%B9/</loc>
     <lastmod>2021-07-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
